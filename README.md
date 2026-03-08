@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+This is where my school work resides. To see my personal projects, they are located [here](https://github.com/Zekorei).
+Thanks for visiting.
 
 <!--
 **bill-ut/bill-ut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
